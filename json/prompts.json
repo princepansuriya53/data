@@ -1,0 +1,371 @@
+[
+  {
+    "id": "img_001",
+    "name": "Instagram 3D Boy Portrait",
+    "prompt": "3D illusion of a realistic 20-year-old Indian boy sitting on Instagram logo, black hoodie, blue jeans, white sneakers, neon wall 'VIKRAM', wings attached, 4K.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/insta_vikram.webp",
+    "Category": "3D Social Media",
+    "type": "image"
+  },
+  {
+    "id": "img_002",
+    "name": "Cyberpunk Mumbai Street",
+    "prompt": "Futuristic rainy cyberpunk Mumbai street, neon Hindi signs, GenZ boy with glowing umbrella, reflections, cinematic 8K.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/mubai_street_neolight.webp",
+    "Category": "Cyberpunk",
+    "type": "image"
+  },
+  {
+    "id": "img_003",
+    "name": "Snapchat 3D Girl",
+    "prompt": "Create a 3D illusion of a realistic 20-year-old Indian girl sitting casually on a 'Snapchat' logo. The girl is wearing a modern Kurti with jeans and stylish glasses. She is looking cute. The background features a dark wall with the name 'PRIYA' written in glowing pink neon lights. Soft lighting, 4K resolution.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/snapchat_priya.webp",
+    "Category": "3D Social Media",
+    "type": "image"
+  },
+  {
+    "id": "img_004",
+    "name": "Little Monk Kedarnath",
+    "prompt": "Cute 3D monk meditating at Kedarnath temple with snowfall, saffron robes, glowing aura.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/kedarnath_mong.webp",
+    "Category": "Spiritual Fantasy",
+    "type": "image"
+  },
+  {
+    "id": "img_005",
+    "name": "Old Delhi Street Cricket",
+    "prompt": "Hyper-realistic cricket game in narrow Old Delhi street at golden hour, dust particles flying.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/delhi_street_cricket.webp",
+    "Category": "Street Photography",
+    "type": "image"
+  },
+  {
+    "id": "img_006",
+    "name": "Bangalore Developer Lo-Fi",
+    "prompt": "Indian software developer in dark room with code screens, masala chai, Bangalore skyline",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/software_developer.webp",
+    "Category": "Tech Lifestyle",
+    "type": "image"
+  },
+  {
+    "id": "img_007",
+    "name": "GenZ Old Delhi Walk",
+    "prompt": "GenZ boy walking in Old Delhi, denim jacket, cargo pants, vintage camera, sunset cinematic.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/old_delhi_walk.webp",
+    "Category": "Urban Fashion",
+    "type": "image"
+  },
+  {
+    "id": "img_008",
+    "name": "Mumbai Rooftop Portrait",
+    "prompt": "Stylish Indian girl on Mumbai rooftop at sunset, pastel kurta, sea link background.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/mumbai_rooftop.webp",
+    "Category": "Lifestyle",
+    "type": "image"
+  },
+  {
+    "id": "img_009",
+    "name": "Neon Gaming Room",
+    "prompt": "Futuristic gaming room, LED hoodie, RGB lights, curved monitor displaying code.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/gaming_room.webp",
+    "Category": "Gaming",
+    "type": "image"
+  },
+  {
+    "id": "img_010",
+    "name": "Sherwani Editorial",
+    "prompt": "A high-fashion studio portrait of a confident young Indian man. He is wearing a contemporary, designer Indo-western outfit: a dark asymmetrical sherwani jacket over a silk kurta and fitted trousers. He poses against a minimalist, textured concrete wall. Soft, professional studio lighting highlights the rich fabric textures and his sharp features. His hair is perfectly styled in a modern quiff. The image has a clean, editorial magazine quality with a neutral color palette. Super sharp focus, incredibly detailed fabric and skin texture, 4K.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/sherwani_editorial.webp",
+    "Category": "Fashion",
+    "type": "image"
+  },
+  {
+    "id": "img_011",
+    "name": "Manali Cruiser Night",
+    "prompt": "GenZ boy on matte black cruiser motorcycle, misty Manali road at night.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/cruiser_motorcycle.webp",
+    "Category": "Adventure",
+    "type": "image"
+  },
+  {
+    "id": "img_012",
+    "name": "Cafe Influencer Portrait",
+    "prompt": "Indian GenZ girl in cozy plant-filled cafe, iced matcha latte, rainy window aesthetic.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/cafe_influencer_portrait.webp",
+    "Category": "Influencer",
+    "type": "image"
+  },
+  {
+    "id": "img_013",
+    "name": "Neon Holi Concert",
+    "prompt": "Neon Holi celebration at night concert, glowing powder, cyberpunk glasses.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/neon_holi.webp",
+    "Category": "Festival",
+    "type": "image"
+  },
+  {
+    "id": "img_014",
+    "name": "Tokyo Street Fashion",
+    "prompt": "Street-style portrait in Tokyo neon alley, oversized hoodie, techwear cargo.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/neon_street.webp",
+    "Category": "Urban Fashion",
+    "type": "image"
+  },
+  {
+    "id": "img_015",
+    "name": "Old Money Library",
+    "prompt": "Luxury portrait in vintage mahogany library, camel coat, 50mm lens aesthetic.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/old_money_library.webp",
+    "Category": "Luxury",
+    "type": "image"
+  },
+  {
+    "id": "img_016",
+    "name": "Cyberpunk Mumbai Biker",
+    "prompt": "Futuristic biker jacket with glowing lines in rainy Mumbai neon street.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/mubai_street_neolight.webp",
+    "Category": "Cyberpunk",
+    "type": "image"
+  },
+  {
+    "id": "img_017",
+    "name": "Leh Ladakh Cliff",
+    "prompt": "Travel influencer on cliff edge in Leh Ladakh during blue hour.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/travel_influencer.webp",
+    "Category": "Travel",
+    "type": "image"
+  },
+  {
+    "id": "img_018",
+    "name": "Dubai Desert Portrait",
+    "prompt": "Indian entrepreneur in Dubai desert golden hour, white linen shirt.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/dubai-desert.webp",
+    "Category": "Travel Luxury",
+    "type": "image"
+  },
+  {
+    "id": "img_019",
+    "name": "Royal Sherwani Palace",
+    "prompt": "3D portrait in royal palace corridor wearing velvet sherwani.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/royal_sherwani_palace.webp",
+    "Category": "Royal Fashion",
+    "type": "image"
+  },
+  {
+    "id": "img_020",
+    "name": "Entrepreneur Office",
+    "prompt": "Young entrepreneur in modern office with city skyline at night.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/entrepreneur_office.webp",
+    "Category": "Corporate",
+    "type": "image"
+  },
+  {
+    "id": "img_021",
+    "Category": "Retro Cinema",
+    "name": "1970s Bollywood Still",
+    "prompt": "Cinematic 1970s Bollywood style still with Ambassador car.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/cinematic_bollywood.webp",
+    "type": "image"
+  },
+  {
+    "id": "img_022",
+    "name": "Luxury Sneaker Loft",
+    "prompt": "Lifestyle portrait in glass loft with glowing sneaker wall.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/luxury_portrait.webp",
+    "Category": "Luxury Lifestyle",
+    "type": "image"
+  },
+  {
+    "id": "img_023",
+    "name": "Urban Samurai",
+    "prompt": "Modern-day urban samurai with techwear kimono in rainy neon street.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/urban_samurai.webp",
+    "Category": "Cyberpunk Fashion",
+    "type": "image"
+  },
+  {
+    "id": "img_024",
+    "name": "Gold Editorial",
+    "prompt": "High-fashion metallic gold suit with abstract liquid gold waves.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/golden_suit.webp",
+    "Category": "Luxury Editorial",
+    "type": "image"
+  },
+  {
+    "id": "img_025",
+    "name": "Underground Boxing",
+    "prompt": "Dimly lit underground boxing gym portrait, dramatic rim lighting.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/underground_boxing.webp",
+    "Category": "Fitness",
+    "type": "image"
+  },
+  {
+    "id": "img_026",
+    "name": "Vintage Library Portrait",
+    "prompt": "Moody vintage library portrait with beige knit sweater and old book.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/library_portrait.webp",
+    "Category": "Vintage Aesthetic",
+    "type": "image"
+  },
+  {
+    "id": "img_027",
+    "name": "Mirror Reflection Minimal",
+    "prompt": "Creative mirror reflection shot with indoor plants and morning light.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/mirror_boy.webp",
+    "Category": "Interior Lifestyle",
+    "type": "image"
+  },
+  {
+    "id": "img_028",
+    "name": "Spiti Mountain Peak",
+    "prompt": "Adventure magazine style portrait on snow-covered mountain peak in Spiti Valley.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/snow_covered_mountain.webp",
+    "Category": "Adventure",
+    "type": "image"
+  },
+  {
+    "id": "img_029",
+    "name": "standing in a tall grass field",
+    "prompt": "A hyper-realistic 4K portrait maintaining the exact facial features of the reference image. The subject is standing in a tall grass field during peak golden hour. The sun is setting directly behind him, creating a warm glowing halo and natural lens flare. He is wearing a light beige linen shirt with rolled sleeves. No marks or lines on the forehead. Soft, organic, airy atmosphere. Shot on a 35mm lens. Natural color grading, ultra-detailed skin texture, Pinterest-style aesthetic. Shallow depth of field, cinematic golden sunlight, realistic fabric details.",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/grass_image.webp",
+    "Category": "Spiritual Futurism",
+    "type": "image"
+  },
+  {
+    "id": "img_030",
+    "type": "image",
+    "Category": "Movies",
+    "name": "DHURANDHAR 2 Hero Action",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/DHURANDHAR_2.webp",
+    "prompt": "Maintain the exact facial features and identity from the reference image. Transform the subject into a larger-than-life Indian action movie hero in a high-energy cinematic poster style titled DHURANDHAR 2. The subject stands in a powerful heroic pose, slightly low-angle shot, chest forward, intense fearless expression, strong jawline, sharp eyes, rugged and dominant look. Outfit: dark open shirt or leather jacket, slightly unbuttoned, subtle gold chain, muscular and masculine presence, perfectly styled hair with slight wind effect. Scene: explosive action environment with fire flames, sparks flying, smoke, dust particles in air, debris scattered, chaotic cinematic battlefield or city destruction background with orange fire glow and deep shadows. Lighting: dramatic high-contrast with strong rim light from behind, cinematic key light on face, glowing highlights from fire, deep shadows for intensity. Text element: bold cinematic title DHURANDHAR 2 in large metallic or fiery glowing letters integrated naturally like a movie poster. Camera: ultra cinematic low-angle shot, 85mm lens, shallow depth of field. Color grading: intense teal and orange, high contrast, film-grade cinematic tone. Mood: mass entry, powerful, dominant, fearless, blockbuster hero energy. Ultra-realistic, 8K resolution, movie poster composition, Bollywood mass action hero style, highly detailed skin texture, sharp focus, award-winning cinematic photography."
+  },
+  {
+    "id": "img_031",
+    "Category": "Movies",
+    "name": "DHURANDHAR 2 Hero Action",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/DHURANDHAR_2_fight_pose.webp",
+    "prompt": "Use the provided reference face image. Maintain 100% facial identity accuracy — do not change face shape, skin tone, beard style, expression, or proportions. Ensure perfect face consistency and seamless blending with the body. Create a full-body, ultra-realistic cinematic scene of the subject as a rugged, muscular action hero. Body & Appearance: Tall, muscular physique, broad shoulders, masculine presence. Wearing a fitted dark green/black half-sleeve shirt, slightly unbuttoned at the top, showing chest. Leather shoulder harness straps across the torso. Strong arms with visible veins and definition. Hair & Beard: Long, thick, slightly messy hair flowing naturally. Full dense beard, well-shaped but rugged. Pose & Action: Standing in a powerful stance, holding a detonator device in one hand (dynamite-style remote with wires). Looking sideways with an intense, fearless, dominant expression. Natural body tension like mid-action moment. Environment: Industrial destruction scene — background filled with fire, smoke, burning debris, partially destroyed structures. War-zone or explosion aftermath vibe. Lighting: Strong cinematic lighting. Warm orange fire light from one side, subtle cool tones from opposite side. High contrast. Dramatic highlights on muscles and face. Light smoke diffusion. Camera: Medium to full-body shot, slightly low angle for dominance. 50mm cinematic lens. Shallow depth of field. Subject in sharp focus, background slightly blurred. Details: Sweat on skin, dirt, subtle scratches for realism. Floating ash particles, sparks, light smoke in air. Color Grading: Teal and orange cinematic grading. High contrast, rich shadows, glowing highlights. Quality: Ultra-realistic, 8K, highly detailed skin texture, sharp focus, cinematic movie still, blockbuster look. Negative Prompt: blurry face, distorted face, extra limbs, cartoonish, low detail, overexposed, underexposed, unrealistic skin, bad anatomy, duplicate face, poor blending",
+    "type": "image"
+  },
+  {
+    "id": "img_032",
+    "type": "image",
+    "Category": "Cafe Candid Sitting",
+    "name": "Cafe Candid Sitting",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/aesthetic_cafe_soft",
+    "prompt": "Maintain exact facial features from reference image, subject sitting casually in aesthetic cafe near window, holding coffee, soft natural light falling on face, relaxed candid expression, shallow depth of field, warm tones, modern outfit, cozy vibe, ultra-realistic skin detail, Instagram lifestyle photography, 4K."
+  },
+  {
+    "id": "img_033",
+    "Category": "fitness / muscular look",
+    "name": "luxury look (rich / premium vibe)",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/luxury_look.webp",
+    "prompt": "Maintain exact facial features from reference image, subject walking while casually using phone, slight smile, urban background with motion blur, soft golden hour lighting, trendy GenZ outfit, natural candid moment, cinematic composition, shallow depth of field, ultra-realistic, social media reel aesthetic.",
+    "type": "image"
+  },
+  {
+    "id": "img_034",
+    "Category": "Coupel Pose base",
+    "name": "Luxury couple cinematic shoot",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/couple_walk.webp",
+    "prompt": "Maintain the exact facial features and identity from both reference images. Do not alter face structure, skin tone, or expressions. Transform the subjects into a stylish GenZ couple walking side-by-side at Mumbai Marine Drive during a beautiful early morning. Both subjects are casually walking forward, natural candid expressions, slight smiles, relaxed and confident vibe. Outfits: Boy: oversized t-shirt or light shirt, relaxed jeans or cargos, clean sneakers, modern GenZ hairstyle. Girl: trendy outfit (crop top or kurti fusion with jeans), minimal accessories, natural hair flow, stylish and elegant GenZ look. Scene: Marine Drive promenade with iconic sea-facing road, soft waves in background, empty morning streets, few people jogging or walking in distance. Clean aesthetic environment. Lighting: Soft golden morning sunlight (golden hour), warm glow hitting faces from side/back, natural highlights on hair, soft shadows, airy and dreamy lighting. Atmosphere: Fresh morning vibe, slightly breezy wind moving hair and clothes naturally, calm and peaceful mood, light haze for depth. Camera: Candid walking shot, slightly low or eye-level angle, 50mm lens, shallow depth of field, background softly blurred (bokeh effect). Color grading: Soft warm tones, natural colors, Instagram aesthetic, slightly pastel cinematic look. Mood: Young, attractive, happy, effortless style, modern GenZ lifestyle, couple aesthetic, calm and premium vibe. Ultra-realistic, 4K quality, sharp facial details, realistic skin texture, cinematic photography, lifestyle influencer style.",
+    "type": "image"
+  },
+  {
+    "id": "img_035",
+    "Category": "city pose ",
+    "name": "Astatic city pose",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/city_pose.webp",
+    "prompt": "Maintain exact facial identity from reference image with 100% accuracy including facial symmetry, skin tone, and expression, seamlessly integrate face onto a proportionally correct full body, subject standing or walking in a premium urban street setting with confident and stylish posture, wearing high-end modern streetwear (oversized t-shirt, jacket, cargos, sneakers), hands relaxed or in pockets, slight head tilt for natural attitude, environment includes blurred city elements, vehicles, or lights for depth, cinematic lighting with soft key light and subtle rim light to separate subject from background, high contrast yet natural tones, ultra-realistic textures in clothing and skin, captured using 85mm lens with shallow depth of field, background bokeh, Instagram editorial photography style, ultra detailed, 4K/8K clarity.",
+    "type": "image"
+  },
+  {
+    "id": "img_036",
+    "Category": "AI Photography / Cinematic Portrait",
+    "name": "Golden Hour Cinematic Portrait Ultra Realistic Identity Preservation",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/Cinematic_Portrait.webp",
+    "prompt": "Maintain the exact facial features and identity from the reference image with perfect realism, no face distortion or alteration, subject standing or walking in an open natural environment such as a field or open road during golden hour, warm sunlight coming from behind or side creating natural glow and soft lens flare, hair and clothes slightly moving with breeze, subject wearing light linen or casual outfit, expression calm and natural, lighting soft and diffused enhancing skin tones and facial details, shot on 35mm lens with shallow depth of field and creamy bokeh background, cinematic color grading with warm tones and soft highlights, ultra-realistic skin texture, highly detailed, Pinterest-style aesthetic, 4K/8K quality.`",
+    "type": "image"
+  },
+  {
+    "id": "img_037",
+    "type": "image",
+    "Category": "Walking pose",
+    "name": "Ultra-realistic Gen Z boy, walking",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/walking_pose.webp",
+    "prompt": "Ultra-realistic Gen Z boy, walking confidently toward camera, holding smartphone casually, slight smirk with effortless attitude, trendy oversized hoodie, cargo pants, sneakers, modern streetwear aesthetic, urban city street background with motion blur, golden hour lighting with warm glow and soft lens flare, cinematic composition, shallow depth of field, soft bokeh, Instagram reel vibe, natural candid moment, highly detailed skin texture, sharp focus on face, 4K 8K ultra HD, vibrant color grading, aesthetic moody tones, viral social media style"
+  },
+  {
+    "id": "img_038",
+    "type": "image",
+    "Category": "Image Beach",
+    "name": "Beach Sunset Luxury Vibe",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/sun_set.png",
+    "prompt": "Ultra-realistic Gen Z boy walking barefoot on a tropical beach, holding smartphone casually, relaxed confident smile, ocean waves softly crashing, golden sunset sky with orange-pink gradient, light breeze moving hair and shirt, wearing open linen shirt, shorts, minimal jewelry, cinematic wide shot, dreamy aesthetic, soft glow lighting, lens flare, shallow depth of field, luxury lifestyle vibe, Instagram reel aesthetic, 4K 8K ultra HD, vibrant cinematic color grading"
+  },
+  {
+    "id": "img_039",
+    "type": "image",
+    "Category": "city pose",
+    "name": "Neon City Night (Cyberpunk Gen Z)",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/neon_city_street.png",
+    "prompt": "Ultra-realistic Gen Z boy walking barefoot on a tropical beach, holding smartphone casually, relaxed confident smile, ocean waves softly crashing, golden sunset sky with orange-pink gradient, light breeze moving hair and shirt, wearing open linen shirt, shorts, minimal jewelry, cinematic wide shot, dreamy aesthetic, soft glow lighting, lens flare, shallow depth of field, luxury lifestyle vibe, Instagram reel aesthetic, 4K 8K ultra HD, vibrant cinematic color grading"
+  },
+  {
+    "id": "img_040",
+    "type": "image",
+    "Category": "city pose",
+    "name": "Mountain Freedom Vibe",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/mountain_freedom_vibe.webp",
+    "prompt": "Ultra-realistic Gen Z boy standing on mountain cliff edge, looking at horizon while holding phone loosely, wind blowing hair and clothes, wearing oversized jacket and cargos, sunrise golden light hitting face, vast landscape background, peaceful yet powerful mood, cinematic wide-angle shot, natural tones, ultra-realistic textures, adventure lifestyle aesthetic, Instagram reel vibe, 4K 8K ultra HD"
+  },
+  {
+    "id": "img_041",
+    "type": "image",
+    "name": "Luxury Car Street Rich Vibe",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/luxury_car_street_rich.webp",
+    "prompt": "Ultra-realistic Gen Z boy leaning against a luxury sports car on a city street, holding smartphone, confident rich attitude, wearing designer streetwear, sunglasses, watch, urban night lights with bokeh, cinematic lighting, glossy reflections, premium lifestyle aesthetic, sharp focus on subject, dark moody tones with highlights, Instagram influencer vibe, ultra-detailed, 4K 8K quality"
+  },
+  {
+    "id": "img_042",
+    "type": "image",
+    "name": "Mindfulness Aesthetic Girl",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/mindfulness_aesthetic_girl.webp",
+    "prompt": "Ultra-realistic Gen Z girl practicing yoga on a rooftop at sunrise, holding phone nearby with meditation app open, calm peaceful expression, soft golden sunlight, minimal outfit, natural skin glow, city skyline in background, cinematic wide shot, serene vibe, soft pastel tones, ultra-detailed textures, aesthetic wellness lifestyle, 4K ultra HD"
+  },
+  {
+    "id": "img_043",
+    "type": "image",
+    "name": "Gamer Girl Setup",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/gamer_girl_setup.webp",
+    "prompt": "Ultra-realistic Gen Z girl sitting in a gaming setup room, RGB lights glowing in purple and blue, holding smartphone while streaming or chatting, confident focused look, gaming headset, modern desk setup with monitors, cinematic lighting, high contrast, tech aesthetic, ultra-detailed face, sharp focus, viral gamer vibe, 4K ultra HD"
+  },
+  {
+    "id": "img_044",
+    "type": "image",
+    "name": "Study Girl",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/study_girl.webp",
+    "prompt": "Ultra-realistic Gen Z girl sitting in a modern library, holding smartphone and book, thoughtful expression, soft natural light from large windows, minimal classy outfit, calm intellectual vibe, cinematic composition, shallow depth of field, ultra-detailed skin, warm tones, aesthetic academic lifestyle, 4K ultra HD"
+  },
+  {
+    "id": "img_045",
+    "type": "image",
+    "name": "Shopping Mall Influencer Girl",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/shopping_mall_Influencer.webp",
+    "prompt": "Ultra-realistic Gen Z girl walking inside a luxury shopping mall, holding shopping bags and smartphone, confident stylish pose, wearing trendy outfit, bright premium lighting, glossy floors reflecting lights, cinematic composition, influencer lifestyle vibe, ultra-detailed face, vibrant colors, 4K 8K ultra HD"
+  },
+  {
+    "id": "img_046",
+    "type": "image",
+    "name": "Airport Travel Girl",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/airport_travel_girl.webp",
+    "prompt": "Ultra-realistic Gen Z girl walking through airport terminal, holding smartphone and passport, confident travel vibe, stylish airport outfit, luggage beside her, large glass windows with airplane view, cinematic lighting, soft reflections, luxury travel aesthetic, ultra-detailed face, 4K ultra HD"
+  },
+  {
+    "id": "img_047",
+    "type": "image",
+    "name": "Artist / Painting Girl",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/artist_painting_girl.webp",
+    "prompt": "Ultra-realistic Gen Z girl painting on canvas in an art studio, holding smartphone with reference image, messy paint aesthetic, natural window light, calm focused expression, creative environment, cinematic composition, soft shadows, ultra-detailed textures, artistic lifestyle vibe, 4K ultra HD"
+  }
+]
