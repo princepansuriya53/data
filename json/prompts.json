@@ -367,5 +367,12 @@
     "name": "Artist / Painting Girl",
     "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/artist_painting_girl.webp",
     "prompt": "Ultra-realistic Gen Z girl painting on canvas in an art studio, holding smartphone with reference image, messy paint aesthetic, natural window light, calm focused expression, creative environment, cinematic composition, soft shadows, ultra-detailed textures, artistic lifestyle vibe, 4K ultra HD"
+  },
+  {
+    "id": "img_048",
+    "type": "image",
+    "name": "Mirror Selfie Enhancement",
+    "thumbnail": "https://raw.githubusercontent.com/princepansuriya53/data/main/mirror_selfie.webp",
+    "prompt": "Maintain exact facial features and identity from the reference image, no face distortion or alteration. Transform the subject into a stylish Gen Z mirror selfie scene, standing confidently in front of a modern full-length mirror, holding smartphone naturally, relaxed confident expression. Outfit should be trendy and well-fitted (streetwear or minimal aesthetic), clean posture, natural pose. Environment: aesthetic modern room or luxury bathroom with soft ambient lighting, LED light strips or warm indoor lights, clean background, minimal clutter. Lighting should be soft and flattering, enhancing skin tones and facial details. Add subtle reflections, realistic shadows, slight depth of field, cinematic composition. Ultra-realistic skin texture, sharp focus on face, premium lifestyle aesthetic, Instagram reel vibe, highly detailed, 4K 8K ultra HD, balanced color grading, natural tones"
   }
 ]
